@@ -1,0 +1,26 @@
+[
+  {
+    "name": "cct-nft",
+    "supabase_url": "https://sniczivjfqmreysnszjl.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "myHdd",
+    "supabase_url": "https://dmngaegtzwpqjilxwjgi.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_2",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "makeAppBuild",
+    "supabase_url": "https://dqwozpcgphyiskmewywg.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_3",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "polymarket monitor",
+    "supabase_url": "https://psjzaptoxfbnafdtnjdh.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_4",
+    "table_name": "keep-alive"
+  }
+]
